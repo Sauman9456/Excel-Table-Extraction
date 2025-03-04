@@ -209,6 +209,15 @@ streamlit run main_st.py
 ```
 App will run at [http://localhost:8501/](http://localhost:8501/)
 
+![image](https://github.com/user-attachments/assets/bebf588b-b24a-4d00-8d26-3c695a274df0)
+
+![image](https://github.com/user-attachments/assets/d408db72-1179-4d01-ab22-45b111dd50fd)
+
+![image](https://github.com/user-attachments/assets/7a1dd27f-5ea8-41a3-9afe-fb9f626e38bf)
+
+
+
+
 
 ## Detailed Code Flow Diagram
 
