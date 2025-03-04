@@ -202,6 +202,13 @@ This table presents a comprehensive aggregation of data of previous table
 2        Paid   93591
 --------------------------------------------------
 ```
+### To run streamlit app
+
+```
+streamlit run main_st.py
+```
+App will run at [http://localhost:8501/](http://localhost:8501/)
+
 
 ## Detailed Code Flow Diagram
 
